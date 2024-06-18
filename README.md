@@ -15,20 +15,28 @@ This assignment aims to familiarize you with the tools and configurations necess
    Step 1: Create Windows 11 Installation Media
 
 Download the Media Creation Tool:
-.Go to the Windows 11 download page: https://www.microsoft.com/software-download/windows11.
-.Under the "Create Windows 11 Installation Media" section, click "Download now".
+   .Go to the Windows 11 download page: https://www.microsoft.com/software-download/windows11.
+   .Under the "Create Windows 11 Installation Media" section, click "Download now".
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/3784d74a-fc39-48bb-9b6a-89b2989ffae3)
 2.Run the Media Creation Tool:
-.Open the downloaded Media Creation Tool executable file.
-.Accept the license terms.
+   .Open the downloaded Media Creation Tool executable file.
+   .Accept the license terms.
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/946ac4ef-4568-4954-8aeb-59c0c3e16766)
 3.Set Up the Media Creation Tool:
 
-.Choose the language, edition, and architecture (64-bit) and press next.
+   .Choose the language, edition, and architecture (64-bit) and press next.
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/786024c6-9327-4040-bf6a-b3f0c95fbf5c)
 
-.Select "USB flash drive" as the media to use. Alternatively, you can choose "ISO file" if you want to create a bootable DVD.
+   .Select "USB flash drive" as the media to use. Alternatively, you can choose "ISO file" if you want to create a bootable DVD.
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/e621a00a-634d-4853-87b6-543aed7e73b1)
+4.Create the Installation Media:
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/3fe3ee84-cd00-4fea-a984-ed88e0276101)
+   .Insert a USB flash drive with at least 8 GB of storage.
+   .Select the USB drive from the list and click "Next".
+   ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/e05a10fe-efa8-4a46-acd7-2a078a3f116e)
+
+
 
 
 
