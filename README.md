@@ -567,7 +567,7 @@ Python: Added Python to the PATH environment variable.
 Docker: Followed detailed tutorials and referred to Docker documentation.
 MySQL: Used MySQL official documentation and community forums for troubleshooting.
 Sample github repository:
-https://github.com/Johnnytash/this-is-a-test-repo.git
+https://github.com/phenacy/this-is-a-test-repo
 
 
 
