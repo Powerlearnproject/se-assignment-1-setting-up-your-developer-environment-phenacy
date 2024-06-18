@@ -147,21 +147,128 @@ Steps to Download and Install VS Code on Windows
 
 
 
+Set Up Version Control System:
+Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+
+sample Repo with git ignore:https://github.com/phenacy/this-is-a-test-repo.git.
+
+Step 1: Download and Install Git
+
+1.Download Git for Windows:
+
+.Go to the Git download page: https://git-scm.com/downloads and download the latest version for your operating system.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/429e7094-1d50-4405-b5b4-3af513c99dd3)
 
 
-#Deliverables:
-- Document detailing the setup process with step-by-step instructions and screenshots where necessary.
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
+2.Run the Installer:
 
-#Submission:
-Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
+.Open the downloaded Git installer.
+.Run the Git installer (Git-2.38.0-64-bit.exe).
+.The installer wizard will appear.
+.Accept the license agreement and click next.
 
-#Evaluation Criteria:**
-- Completeness and accuracy of setup documentation.
-- Effectiveness of version control implementation.
-- Appropriateness of tools selected for the project requirements.
-- Clarity of reflection on challenges and solutions encountered.
-- Adherence to submission guidelines and deadlines.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/f0b04cec-3f1a-4065-8286-33b5231e452f)
+.choose the location where you want the Git installation to be kept. Accept the default location and click next.
 
-Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+![git location](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/9899a5d4-13e2-4846-b313-d600c0a0bb02)
+
+3.Follow the Installation Wizard:
+
+.Choose the default options or customize the installation according to your preferences. Some key settings to note:
+
+-Adjusting your PATH environment.
+-Choosing the HTTPS transport backend.
+-Configuring the line-ending conversions.
+-Choosing the default Git editor.
+
+
+![git additional features](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/606bb56c-d56d-4aa5-92f2-657da75b9f6b)
+
+4.Start folder:
+![Start folder](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/ecc2c24f-8fab-4c26-8f5b-e40e951e5bbb)
+
+5.Text editor:
+.Choose a text editor to use with Git. Click on the drop-down menu to pick the text editor you like to use like Vim, Notepad++, etc, and click Next.
+
+
+![git text editor-1](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/c5f6d7a9-fd33-4bc9-8327-8e5341ea1845)
+
+
+6.In the next steps choose all default options and click finish
+
+
+![git finish](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/c7825006-ac88-4762-9ce6-86389dea877d)
+
+7.Verify the Installation:
+
+.Open Command Prompt or Git Bash and run git –version
+
+![git verification](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/ef466561-8f76-4f6d-b818-eb9092efef2e)
+
+Step 2: Configuring Git
+
+.Open a terminal or command prompt (Git Bash).
+.Set your username and email: [git config --global user. name "Your Name"] [git config --global user.email "your.email@example.com"]
+.Step 3: Create a GitHub Account
+
+.Sign up for a GitHub account at GitHub. https://github.com
+.Enter your information:
+-Unique username
+-Email address
+-Password
+-Confirm password
+-Create GitHub account
+-Click on the link to verify your email address.
+
+
+
+
+
+step 4: Initialize a Git repository
+
+1.Create a new repository on GitHub:
+
+-Go to your GitHub profile page and click on your profile picture.
+-Go to your profile.
+-Click on your repositories.
+-Click on “Create new repository”.
+-Fill in the details:
+-Repository name
+-Repository description
+-Select “Public”
+-Select “Initialize this repository with a README”(optional)
+-Add .gitignore (optional)
+-Click on “Create repository”.
+-Choose a license (optional)
+-Click "Create repository"
+
+2.Click "Create repository"
+
+
+![create repository](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/fd3e0977-e075-45de-a827-3e5c4912aeb8)
+
+
+step 5: Cloning Git Repository
+
+.Copy the repository URL from the GitHub page.
+.Open Git Bash or Command Prompt.
+.Run git clone repository URL
+.navigate to the cloned repository and run git status to check if the repository is cloned successfully.
+.verify the cloning with the ls command
+Step 6: Commit and Push Changes
+
+.Create a new file: [touch example.txt]
+.Add content to the file: [nano example.txt]
+.Save and exit the editor (for nano, press Ctrl+X, then Y, and Enter).
+
+
+
+
+
+
+
+
+
+
+
+
