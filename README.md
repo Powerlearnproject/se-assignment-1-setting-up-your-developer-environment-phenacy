@@ -65,31 +65,89 @@ Step 2: Install Windows 11 Using the Installation Media
 
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/a980abbf-da06-4e07-967f-1256767069bc)
 
+4.Enter Product Key:
+
+.If prompted, enter your Windows 11 product key. If you are upgrading from Windows 10, you may skip this step as the activation should be automatic.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/4c44ebbf-fdc8-45d6-9cbd-3b88a8d8cc5f)
+
+5.Select Installation Type:
+
+.Choose "Custom: Install Windows only (advanced)" for a clean installation.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/c8983f82-909c-405b-8a47-59774e20719d)
+.choose windows type and click next
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/48c3fc81-196e-45ad-86c0-befac6afd25a)
+
+6.Partition the Drive:
+.Select the partition where you want to install Windows 11. You can delete existing partitions to create a new one, but this will erase all data on the selected partition.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/e0b7c8af-187f-4f57-833a-97b7b89c561a)
+.Click "Next" to start the installation.
+Step 3: Complete the Installation
+1.Follow On-Screen Instructions:
+
+.Windows 11 will now be installed on your PC. The process might take some time and your PC will restart several times.
+2.Set Up Windows 11:
+
+.After installation, you will be guided through the initial setup process. Configure your preferences, sign in with your Microsoft account, and set up any additional settings.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/5c66b90e-7eed-4382-afee-741e3d465b25)
 
 
 
-3. Install a Text Editor or Integrated Development Environment (IDE):
-   Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
-4. Set Up Version Control System:
-   Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
-5. Install Necessary Programming Languages and Runtimes:
-  Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+Install a Text Editor or Integrated Development Environment (IDE):
+Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
 
-6. Install Package Managers:
-   If applicable, install package managers like pip (Python).
+Steps to Download and Install VS Code on Windows
 
-7. Configure a Database (MySQL):
-   Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+   1.Download VS Code:
 
-8. Set Up Development Environments and Virtualization (Optional):
-   Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+.Go to the Visual Studio Code download page: https://code.visualstudio.com/Download.
+.Under the "Download Visual Studio Code" section, click "Download for Windows".
+.This will start the download of the VS Code installer (VSCodeUserSetup-x64-1.X64-1.XX.X.exe).
 
-9. Explore Extensions and Plugins:
-   Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-10. Document Your Setup:
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/86049f66-c892-4511-b46a-1c378518b7f1)
+
+2.Run the Installer:
+
+.Open the downloaded VS Code installer.
+.Run the VS Code installer (VSCodeUserSetup-x64-1.X64-1.XX.X.exe).
+.The installer wizard will appear.
+
+3.Installation Prompt:
+
+.Accept the license agreement and click next.
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/fee275cb-c433-4e84-90da-50372cc78b2c)
+
+
+.Choose the location where you want the VS Code installation to be kept. Accept the default location and click next.
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/8ceac5aa-2626-43d7-ac76-89f28430f5e5)
+
+.Accept the default Start Menu Folder and click Next.
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/e9072b30-9fda-4c25-9c0f-d2ea487b5fb1)
+
+.Select additional tasks (optional but recommended):
+.Click on Create a Desktop icon.
+.Click on Add to path (important to use the command line).
+.Click register code as an Editor for supported files.
+.Adding “Open with Code” action to the Windows Explorer context menu.
+.Adding “Open with Code” to the directory context menu.
+.Click next.
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/7c28bfd3-9f49-4ea9-8f24-04a0003d9eb5)
+
+.The installation will begin. Click on the install button.
+.After clicking install, it should take about one minute to install VS Code on your device.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/83d63abf-c772-4994-8f99-07815ad63ae3)
+
+4.Finish Installation:
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/0aa662de-3b81-4aec-9530-77b7af87fd35)
+
+
+
+
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
