@@ -18,6 +18,19 @@ Download the Media Creation Tool:
 .Go to the Windows 11 download page: https://www.microsoft.com/software-download/windows11.
 .Under the "Create Windows 11 Installation Media" section, click "Download now".
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/3784d74a-fc39-48bb-9b6a-89b2989ffae3)
+2.Run the Media Creation Tool:
+.Open the downloaded Media Creation Tool executable file.
+.Accept the license terms.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/946ac4ef-4568-4954-8aeb-59c0c3e16766)
+3.Set Up the Media Creation Tool:
+
+.Choose the language, edition, and architecture (64-bit) and press next.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/786024c6-9327-4040-bf6a-b3f0c95fbf5c)
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/8d7757ce-ae28-46f4-aa7c-7b687efe02b1)
+.Select "USB flash drive" as the media to use. Alternatively, you can choose "ISO file" if you want to create a bootable DVD.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/e621a00a-634d-4853-87b6-543aed7e73b1)
+
+
 
 
 3. Install a Text Editor or Integrated Development Environment (IDE):
