@@ -35,8 +35,35 @@ Download the Media Creation Tool:
    .Insert a USB flash drive with at least 8 GB of storage.
    .Select the USB drive from the list and click "Next".
    ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/e05a10fe-efa8-4a46-acd7-2a078a3f116e)
+   .The tool will download Windows 11 and create the bootable USB drive.
+   .After that click finish
+   ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/55cac795-367f-4c56-b7e8-09f3e71e1584)
 
 
+Step 2: Install Windows 11 Using the Installation Media
+
+1.Prepare Your PC:
+
+.Back up all important data.
+.Ensure your PC meets the Windows 11 system requirements.
+2.Boot from the USB Drive:
+.Insert the bootable USB drive into your PC.
+.Restart your PC and enter the BIOS/UEFI settings (commonly accessed by pressing a key like F2, F12, Delete, or Esc during startup).
+.Change the boot order to boot from the USB drive first.
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/7a36c744-4554-4aea-8bc4-e46afb30f129)
+
+
+3.Start the Installation Process:
+
+.Save the changes and exit the BIOS/UEFI settings. Your PC should now boot from the USB drive.
+,The Windows Setup screen will appear. Select your language, time, and keyboard preferences, and click "Next".
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/20637392-cb27-4238-a70b-b2cc54c0cdec)
+
+.Click "Install now".
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/a980abbf-da06-4e07-967f-1256767069bc)
 
 
 
