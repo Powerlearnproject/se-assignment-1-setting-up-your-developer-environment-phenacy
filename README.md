@@ -26,7 +26,7 @@ Download the Media Creation Tool:
 
 .Choose the language, edition, and architecture (64-bit) and press next.
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/786024c6-9327-4040-bf6a-b3f0c95fbf5c)
-![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/8d7757ce-ae28-46f4-aa7c-7b687efe02b1)
+
 .Select "USB flash drive" as the media to use. Alternatively, you can choose "ISO file" if you want to create a bootable DVD.
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-phenacy/assets/146988414/e621a00a-634d-4853-87b6-543aed7e73b1)
 
